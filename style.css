@@ -1,0 +1,11 @@
+.header{
+    background-image: 
+        url(imagenes/Estudio\ Contable\ Ábaco\ \(1\).png);
+        background-position: center bottom;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 70vh;
+        display: flex;
+        align-items: center;
+        height: 1200px;
+}
